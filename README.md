@@ -1,6 +1,7 @@
 # Black-Scholes-Model-implementation
  the project contains 2 implementation 1 being the implementation on sample values irrespective of intrerest rares, dividends, ETC parameters 
  2nd being the commplete implementation with the externnal parameters like intrerest rares, dividends, ETC 
+
 Black scholes merton model:-
 The Black-Scholes-Merton model is a mathematical formula used to calculate the theoretical price of options contracts. It also provides option Greeks, which are measures of the sensitivity of an option's price to changes in various factors. Here's an overview of the model, its formula, and how to implement it in Python:
 
